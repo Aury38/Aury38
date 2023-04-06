@@ -1,16 +1,14 @@
-### Hi there 👋
+olá eu me chamo Auridinei Abreu, sou conhecido como Aury,
+Gosto muito de tecnologia e programação, e no momento da criaçãoão desse perfil,
+eu estou reiniciando nessaáre de tecnologia, reaprendendo algumass coisas
 
-<!--
-**Aury38/Aury38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 HTML5
+👉CSS3
+👉JAVA SCRIPT
+👉PHP
+👉PYTHON
 
-Here are some ideas to get you started:
+Eu sei que devemos focar apenas em uma ou duas, maisé que tem umas que eu estou  começando do zero
+e outras eu ja tenho mais familiaridade com elas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ahh! e tambem não posso deixar de citar que estou aprendendo a mexer no Git e GitHub
