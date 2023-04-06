@@ -1,5 +1,5 @@
-olá eu me chamo Auridinei Abreu, sou conhecido como Aury,
-Gosto muito de tecnologia e programação, e no momento da criaçãoão desse perfil,
+Ola, eu me chamo Auridinei mais sou conhecido como Aury
+Gosto muito de tecnologia e programação, e no momento da criação desse perfil,
 eu estou reiniciando nessaáre de tecnologia, reaprendendo algumass coisas
 
 👉 HTML5
